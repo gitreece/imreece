@@ -1,2 +1,2 @@
 # imreece
-My personal webiste!
+My personal website!
