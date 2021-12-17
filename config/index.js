@@ -1,7 +1,7 @@
 module.exports = {
   //-- SITE SETTINGS -----
   author: "@mauriciopereira",
-  siteTitle: "Mauricio Pereira | Portfolio",
+  siteTitle: "Mauricio Pereira",
   siteShortTitle: "mp.", // Used as logo text in header, footer, and splash screen
   siteDescription: "Information Technology graduate from Towson University.",
   siteUrl: "https://imreece.com/",
