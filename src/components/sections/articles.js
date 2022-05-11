@@ -7,7 +7,7 @@ import Context from "../../context"
 import ContentWrapper from "../../styles/contentWrapper"
 import Underlining from "../../styles/underlining"
 import { parseDate } from "../../utils"
-import { mediumRssFeed, shownArticles } from "../../../config"
+// import { mediumRssFeed, shownArticles } from "../../../config"
 // import { rssFeed, shownArticles } from "../../../config"
 import { lightTheme, darkTheme } from "../../styles/theme"
 
